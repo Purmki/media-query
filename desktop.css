@@ -1,0 +1,26 @@
+body{
+    background-image: url('https://cdn.dnaindia.com/sites/default/files/2023/07/12/2598875-image-86.jpg?im=FitAndFill=(1200,900)');
+}
+
+
+#square{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: purple;
+    border-style: solid;
+}
+
+#container{
+    display:flex;
+    flex-wrap: wrap;
+    
+}
+
+
+
+#container2{
+    display:flex;
+    flex-wrap: wrap;
+    
+}
